@@ -21,6 +21,7 @@
 /* Begin PBXFileReference section */
 		8B8CBEA72BFBDEDE006505AE /* loggedInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loggedInView.swift; sourceTree = "<group>"; };
 		8BD8814B2BFC9BB80018266F /* client.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = client.swift; sourceTree = "<group>"; };
+		8BD8814D2BFC9C5B0018266F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8BEBA38D2BFBBCEE004B4C1C /* authStuff.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = authStuff.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BEBA3902BFBBCEE004B4C1C /* authStuffApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = authStuffApp.swift; sourceTree = "<group>"; };
 		8BEBA3922BFBBCEE004B4C1C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +46,7 @@
 		8BEBA3842BFBBCEE004B4C1C = {
 			isa = PBXGroup;
 			children = (
+				8BD8814D2BFC9C5B0018266F /* README.md */,
 				8BEBA38F2BFBBCEE004B4C1C /* authStuff */,
 				8BEBA38E2BFBBCEE004B4C1C /* Products */,
 				8BEBA3A12BFBBEAD004B4C1C /* Frameworks */,
