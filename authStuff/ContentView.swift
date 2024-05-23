@@ -10,8 +10,9 @@ import SwiftUI
 
 struct ContentView: View {
     @State var user = supabase.auth.currentUser
+    @State private var path = NavigationPath()
     var body: some View {
-        NavigationStack {
+        NavigationStack(path: $path) {
             if let user {
                 loggedInView(User: user)
             } else {
